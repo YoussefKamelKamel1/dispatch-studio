@@ -1,0 +1,92 @@
+[
+  {
+    "source": {
+      "title": "Urban Futures: October workshop findings",
+      "project_id": "urban",
+      "update_type": "Research findings",
+      "audience": "Research partners, community organizations, and local policymakers",
+      "cta": "Review the draft findings at the November follow-up session.",
+      "source": "The fictional Urban Futures project completed its first round of community mapping workshops in October 2026. Across three workshops, 48 residents shared how they use public spaces and where they encounter barriers to access.\n\nParticipants identified a need for more shaded seating, accessible footpaths, and welcoming spaces for intergenerational activities. These are preliminary qualitative findings from the workshop participants, not a representative survey of the city.\n\nThe research team will now organize the anonymized workshop notes into themes and invite participants to review the draft findings. A follow-up session is planned for November 2026. No policy commitments or measured improvements have been established at this stage."
+    },
+    "provider": "Local template \u00b7 demo",
+    "status": "unpublished_example",
+    "drafts": {
+      "linkedin": {
+        "title": "Urban Futures: October workshop findings",
+        "body": "The fictional Urban Futures project completed its first round of community mapping workshops in October 2026. Across three workshops, 48 residents shared how they use public spaces and where they encounter barriers to access. Participants identified a need for more shaded seating, accessible footpaths, and welcoming spaces for intergenerational activities.\n\nReview the draft findings at the November follow-up session."
+      },
+      "newsletter": {
+        "title": "Urban Futures: October workshop findings",
+        "body": "The fictional Urban Futures project completed its first round of community mapping workshops in October 2026. Across three workshops, 48 residents shared how they use public spaces and where they encounter barriers to access. Participants identified a need for more shaded seating, accessible footpaths, and welcoming spaces for intergenerational activities."
+      },
+      "website": {
+        "title": "Urban Futures: October workshop findings",
+        "body": "The fictional Urban Futures project completed its first round of community mapping workshops in October 2026. Across three workshops, 48 residents shared how they use public spaces and where they encounter barriers to access.\n\nParticipants identified a need for more shaded seating, accessible footpaths, and welcoming spaces for intergenerational activities. These are preliminary qualitative findings from the workshop participants, not a representative survey of the city.\n\nThe research team will now organize the anonymized workshop notes into themes and invite participants to review the draft findings. A follow-up session is planned for November 2026. No policy commitments or measured improvements have been established at this stage.\n\nReview the draft findings at the November follow-up session."
+      },
+      "checks": [
+        "Local template demonstration. No AI request was made.",
+        "Review source facts, names, and any preliminary findings before approving."
+      ]
+    }
+  },
+  {
+    "source": {
+      "title": "Skills for Change: learning materials review",
+      "project_id": "skills",
+      "update_type": "Project update",
+      "audience": "Research partners, community organizations, and local policymakers",
+      "cta": "",
+      "source": "The fictional Skills for Change team has completed a co-design session with community facilitators. Participants reviewed a draft learning pathway focused on job-search confidence, interview preparation, and practical digital skills.\n\nThe next step is to revise the learning materials using the feedback. The pilot has not started, and no employment outcomes have been measured."
+    },
+    "provider": "Local template \u00b7 demo",
+    "status": "unpublished_example",
+    "drafts": {
+      "linkedin": {
+        "title": "Skills for Change: learning materials review",
+        "body": "The fictional Skills for Change team has completed a co-design session with community facilitators. Participants reviewed a draft learning pathway focused on job-search confidence, interview preparation, and practical digital skills. The next step is to revise the learning materials using the feedback."
+      },
+      "newsletter": {
+        "title": "Skills for Change: learning materials review",
+        "body": "The fictional Skills for Change team has completed a co-design session with community facilitators. Participants reviewed a draft learning pathway focused on job-search confidence, interview preparation, and practical digital skills. The next step is to revise the learning materials using the feedback."
+      },
+      "website": {
+        "title": "Skills for Change: learning materials review",
+        "body": "The fictional Skills for Change team has completed a co-design session with community facilitators. Participants reviewed a draft learning pathway focused on job-search confidence, interview preparation, and practical digital skills.\n\nThe next step is to revise the learning materials using the feedback. The pilot has not started, and no employment outcomes have been measured."
+      },
+      "checks": [
+        "Local template demonstration. No AI request was made.",
+        "Review source facts, names, and any preliminary findings before approving."
+      ]
+    }
+  },
+  {
+    "source": {
+      "title": "Open Research: November methods exchange",
+      "project_id": "research",
+      "update_type": "Event announcement",
+      "audience": "Research partners, community organizations, and local policymakers",
+      "cta": "Contact the research team to express interest.",
+      "source": "The fictional Open Research project is preparing an online methods exchange in November 2026. Researchers and community partners will discuss how to make qualitative research methods easier to understand and reuse.\n\nThe agenda is being developed. The final date, registration link, and speakers will be announced after confirmation."
+    },
+    "provider": "Local template \u00b7 demo",
+    "status": "unpublished_example",
+    "drafts": {
+      "linkedin": {
+        "title": "Open Research: November methods exchange",
+        "body": "The fictional Open Research project is preparing an online methods exchange in November 2026. Researchers and community partners will discuss how to make qualitative research methods easier to understand and reuse. The agenda is being developed.\n\nContact the research team to express interest."
+      },
+      "newsletter": {
+        "title": "Open Research: November methods exchange",
+        "body": "The fictional Open Research project is preparing an online methods exchange in November 2026. Researchers and community partners will discuss how to make qualitative research methods easier to understand and reuse. The agenda is being developed."
+      },
+      "website": {
+        "title": "Open Research: November methods exchange",
+        "body": "The fictional Open Research project is preparing an online methods exchange in November 2026. Researchers and community partners will discuss how to make qualitative research methods easier to understand and reuse.\n\nThe agenda is being developed. The final date, registration link, and speakers will be announced after confirmation.\n\nContact the research team to express interest."
+      },
+      "checks": [
+        "Local template demonstration. No AI request was made.",
+        "Review source facts, names, and any preliminary findings before approving."
+      ]
+    }
+  }
+]

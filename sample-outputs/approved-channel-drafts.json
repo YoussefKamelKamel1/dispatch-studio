@@ -1,0 +1,81 @@
+{
+  "id": "4b93f782ab86b011889f50df",
+  "project_id": "urban",
+  "title": "Urban Futures: October workshop findings",
+  "source": "The fictional Urban Futures project completed its first round of community mapping workshops in October 2026. Across three workshops, 48 residents shared how they use public spaces and where they encounter barriers to access.\n\nParticipants identified a need for more shaded seating, accessible footpaths, and welcoming spaces for intergenerational activities. These are preliminary qualitative findings from the workshop participants, not a representative survey of the city.\n\nThe research team will now organize the anonymized workshop notes into themes and invite participants to review the draft findings. A follow-up session is planned for November 2026. No policy commitments or measured improvements have been established at this stage.",
+  "update_type": "Research findings",
+  "audience": "Research partners, community organizations, and local policymakers",
+  "cta": "Review the draft findings at the November follow-up session.",
+  "status": "published",
+  "revision": 2,
+  "provider": "Local template · demo",
+  "warnings": [
+    "Local template demonstration. No AI request was made.",
+    "Review source facts, names, and any preliminary findings before approving."
+  ],
+  "error": null,
+  "created_at": "2026-10-23T11:14:39.702629+00:00",
+  "updated_at": "2026-10-23T11:14:41.601934+00:00",
+  "project_name": "Urban Futures",
+  "project_color": "#718474",
+  "content": {
+    "linkedin": {
+      "title": "Urban Futures: October workshop findings",
+      "body": "The fictional Urban Futures project completed its first round of community mapping workshops in October 2026. Across three workshops, 48 residents shared how they use public spaces and where they encounter barriers to access. Participants identified a need for more shaded seating, accessible footpaths, and welcoming spaces for intergenerational activities.\n\nReview the draft findings at the November follow-up session."
+    },
+    "newsletter": {
+      "title": "Urban Futures: October workshop findings",
+      "body": "The fictional Urban Futures project completed its first round of community mapping workshops in October 2026. Across three workshops, 48 residents shared how they use public spaces and where they encounter barriers to access. Participants identified a need for more shaded seating, accessible footpaths, and welcoming spaces for intergenerational activities."
+    },
+    "website": {
+      "title": "Urban Futures: October workshop findings",
+      "body": "The fictional Urban Futures project completed its first round of community mapping workshops in October 2026. Across three workshops, 48 residents shared how they use public spaces and where they encounter barriers to access.\n\nParticipants identified a need for more shaded seating, accessible footpaths, and welcoming spaces for intergenerational activities. These are preliminary qualitative findings from the workshop participants, not a representative survey of the city.\n\nThe research team will now organize the anonymized workshop notes into themes and invite participants to review the draft findings. A follow-up session is planned for November 2026. No policy commitments or measured improvements have been established at this stage.\n\nReview the draft findings at the November follow-up session."
+    }
+  },
+  "channels": [
+    "linkedin",
+    "website"
+  ],
+  "jobs": [
+    {
+      "id": "75f432bbe22e93a9cb73e760",
+      "approval_id": "88bedfb60d25599bce8e5ed0",
+      "item_id": "4b93f782ab86b011889f50df",
+      "revision": 2,
+      "channel": "linkedin",
+      "status": "succeeded",
+      "attempts": 1,
+      "error": null,
+      "external_id": "4237f259788c584628146fad",
+      "url": "http://127.0.0.1:8016/sandbox/linkedin/4237f259788c584628146fad",
+      "created_at": "2026-10-23T11:14:40.843221+00:00",
+      "updated_at": "2026-10-23T11:14:41.600935+00:00",
+      "destination": "{\"provider\": \"sandbox\", \"target\": \"http://127.0.0.1:8016\", \"version\": \"\"}"
+    },
+    {
+      "id": "106a7ccbe7f1fb848a6af269",
+      "approval_id": "88bedfb60d25599bce8e5ed0",
+      "item_id": "4b93f782ab86b011889f50df",
+      "revision": 2,
+      "channel": "website",
+      "status": "succeeded",
+      "attempts": 1,
+      "error": null,
+      "external_id": "0433b69b7d59cb4cb69b7f5c",
+      "url": "http://127.0.0.1:8016/news/urban-futures-october-workshop-findings-0433b6",
+      "created_at": "2026-10-23T11:14:40.843221+00:00",
+      "updated_at": "2026-10-23T11:14:41.370895+00:00",
+      "destination": "{\"account\": \"\", \"provider\": \"local\", \"target\": \"http://127.0.0.1:8016\"}"
+    }
+  ],
+  "approvals": [
+    {
+      "id": "88bedfb60d25599bce8e5ed0",
+      "revision": 2,
+      "channels": "[\"linkedin\", \"website\"]",
+      "reviewer": "demo@example.com",
+      "status": "active",
+      "created_at": "2026-10-23T11:14:40.843221+00:00"
+    }
+  ]
+}

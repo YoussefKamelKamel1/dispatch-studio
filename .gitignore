@@ -1,0 +1,40 @@
+.venv/
+data/
+.env
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+.test-tmp/
+pytest-cache-files-*/
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+*.tsbuildinfo
+*.log
+
+# Local credentials and editor state
+.env*
+!.env.example
+!.env.demo
+*.pem
+*.key
+*.pfx
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Keep the public repository focused on the product and its README.
+*.md
+!/README.md
+frontend/qa-preview.mjs
+frontend/record-walkthrough.mjs
+
+.ci-data/
+
+.ci-data/
+
+# Keep local hidden directories private.
+.*/
+!/.github/
